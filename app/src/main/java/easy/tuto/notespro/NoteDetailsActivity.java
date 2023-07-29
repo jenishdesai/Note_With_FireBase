@@ -22,7 +22,6 @@ public class NoteDetailsActivity extends AppCompatActivity {
     String title,content,docId;
     boolean isEditMode = false;
     TextView deleteNoteTextViewBtn;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
