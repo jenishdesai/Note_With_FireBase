@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560328549190",
+    "project_id": "note-taking-app-90c68",
+    "storage_bucket": "note-taking-app-90c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560328549190:android:858479c6661895eec6bb47",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560328549190-mqfgqo5fm7u9ami7kobticb8vo1ktn7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "easy.tuto.notespro",
+            "certificate_hash": "d28e9ea7992239bb06d97d953455eeec2ee7b5c3"
+          }
+        },
+        {
+          "client_id": "560328549190-9somc1iqvumkekrq0t1dvq9ee8kqda45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7SV1J8fj1U4BhQH8madzoCBiN1HsCYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560328549190-9somc1iqvumkekrq0t1dvq9ee8kqda45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
